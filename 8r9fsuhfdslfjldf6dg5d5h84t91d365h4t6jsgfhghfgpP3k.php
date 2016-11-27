@@ -1,4 +1,4 @@
-
+ 
 <?php
 @session_start(); 
 @error_reporting(0); 
@@ -750,8 +750,8 @@ print '
 
 		
 
-<center>
-</table>
+
+</table><center>
 <table>
 <tr>
 
@@ -759,7 +759,7 @@ print '
 <td>Total Email PP Busuk : '.$not.'</td>
 </tr>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;</p></center>
 
 
 ';
