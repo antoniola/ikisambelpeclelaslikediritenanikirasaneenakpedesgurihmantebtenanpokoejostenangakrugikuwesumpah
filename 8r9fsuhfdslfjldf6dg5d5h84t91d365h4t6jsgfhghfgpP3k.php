@@ -756,7 +756,7 @@ print '
 		
 
 
-</table> 
+</table></center><center> 
 <table>
 <tr>
 
