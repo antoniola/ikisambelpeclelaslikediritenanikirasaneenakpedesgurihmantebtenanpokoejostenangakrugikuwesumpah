@@ -685,7 +685,12 @@ background-color: rgba(75, 75, 225, 0.1);">
 </div>
    <header>
       <div>
-<center><textarea id="pop" name="emails" cols="10" rows="30" style="width: 30%; height: 40%;color:lime;border:2px;background-image:url(https://4.bp.blogspot.com/-rX-ss0rouIo/WDpjq1byhlI/AAAAAAAAAXI/RnfOGW_woCw2q8JpImmBXd9_EluDDDK6ACLcB/s1600/xs.png);background-repeat:repeat;background-position:top;"></textarea><br><div style="background-image:url(https://buatisengiseng.files.wordpress.com/2012/01/garis.gif);width:30%;height:2%;color:white;"><marquee direction="right" scrollamount="100" align="center" behavior="alternate"> > > > > | PayPaL Email Cheker | < < < < </marquee></div><br>
+<center><textarea id="pop" name="emails" cols="10" rows="30" style="width: 30%; height: 40%;color:lime;border:2px;background-image:url(https://4.bp.blogspot.com/-rX-ss0rouIo/WDpjq1byhlI/AAAAAAAAAXI/RnfOGW_woCw2q8JpImmBXd9_EluDDDK6ACLcB/s1600/xs.png);background-repeat:repeat;background-position:top;">SILAHKAN DI BACA DULU COK!
+Hapus txt ini dan Paste email disini yang mau di cheker
+Habis menggunakan cheker paypal ini pilih clear cokies supaya tetap work
+Bila tidak work saat ngecheker paypal ini
+Ganti server kalian / shell kalian yang bisa buat ngecheker paypal
+Silahkan Mencoba ^_^</textarea><br><div style="background-image:url(https://buatisengiseng.files.wordpress.com/2012/01/garis.gif);width:30%;height:2%;color:white;"><marquee direction="right" scrollamount="100" align="center" behavior="alternate"> > > > > | PayPaL Email Cheker | < < < < </marquee></div><br>
 <button id=start value="WOOT" name="submit" type="submit">Play</button><button id=stop name="stop" type="submit" value="WOOT">Stop</button><br><button type="submit" name="delete" >Clear Cookie</button><img id="hack-run" src="https://4.bp.blogspot.com/-rX-ss0rouIo/WDpjq1byhlI/AAAAAAAAAXI/RnfOGW_woCw2q8JpImmBXd9_EluDDDK6ACLcB/s1600/xs.png" width="0" height="0">
 
 			
@@ -751,7 +756,7 @@ print '
 		
 
 
-</table><center>
+</table> 
 <table>
 <tr>
 
